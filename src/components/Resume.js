@@ -2,7 +2,7 @@ import ResumeImg from '../assets/resume.jpg';
 
 export default function About() {
     const config = {
-        link: 'https://drive.google.com/file/d/1IwkobK6wAniamyCeM59UeQZgGCRA2HAk/view?usp=sharing'
+        link: 'https://drive.google.com/file/d/1IwkobK6wAniamyCeM59UeQZgGCRA2HAk/view?usp=sharing '
     }
 
 
